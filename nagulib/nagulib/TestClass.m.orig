@@ -11,11 +11,11 @@
 @implementation TestClass
 
 -(void)test1{
+<<<<<<< HEAD
+    NSLog(@"hello1");
+=======
     NSLog(@"Hi");
-}
-
--(void)test2{
-    NSLog(@"Hello");
+>>>>>>> new changes
 }
 
 @end
