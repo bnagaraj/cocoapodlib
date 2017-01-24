@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char nagulibVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <nagulib/PublicHeader.h>
 
-
+FOUNDATION_EXPORT const unsigned char nagulibVersionString2[];

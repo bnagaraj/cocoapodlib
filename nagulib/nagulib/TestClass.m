@@ -14,4 +14,8 @@
     NSLog(@"hello1");
 }
 
+-(void)test2{
+    NSLog(@"Hello");
+}
+
 @end
