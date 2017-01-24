@@ -10,4 +10,8 @@
 
 @implementation TestClass
 
+-(void)test1{
+    NSLog(@"hello1");
+}
+
 @end
